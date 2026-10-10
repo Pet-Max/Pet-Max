@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-09</kbd>
+<kbd>2026-10-10</kbd>
 
-- 会当凌绝顶，一览众山小。—— 杜甫《望岳》
+- Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
 <!-- DAILY-QUOTE:END -->

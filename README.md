@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-12</kbd>
+<kbd>2026-10-13</kbd>
 
-- 路漫漫其修远兮，吾将上下而求索。—— 屈原《离骚》
+- Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
 <!-- DAILY-QUOTE:END -->

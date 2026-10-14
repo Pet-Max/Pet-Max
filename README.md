@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-13</kbd>
+<kbd>2026-10-14</kbd>
 
-- Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+- 纸上得来终觉浅，绝知此事要躬行。—— 陆游《冬夜读书示子聿》
 <!-- DAILY-QUOTE:END -->

@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-27</kbd>
+<kbd>2026-10-28</kbd>
 
-- 慢慢来，比较快。
+- The best way to predict the future is to invent it. — Alan Kay
 <!-- DAILY-QUOTE:END -->

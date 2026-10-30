@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-29</kbd>
+<kbd>2026-10-30</kbd>
 
-- 慢慢来，比较快。
+- Stay hungry, stay foolish. — Steve Jobs
 <!-- DAILY-QUOTE:END -->

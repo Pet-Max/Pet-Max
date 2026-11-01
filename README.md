@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-10-31</kbd>
+<kbd>2026-11-01</kbd>
 
-- Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+- Stay hungry, stay foolish. — Steve Jobs
 <!-- DAILY-QUOTE:END -->

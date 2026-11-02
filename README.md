@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-01</kbd>
+<kbd>2026-11-02</kbd>
 
-- Stay hungry, stay foolish. — Steve Jobs
+- 山高路远，看世界，也找自己。
 <!-- DAILY-QUOTE:END -->

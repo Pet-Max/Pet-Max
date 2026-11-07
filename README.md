@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-06</kbd>
+<kbd>2026-11-07</kbd>
 
-- Stay hungry, stay foolish. — Steve Jobs
+- The best way to predict the future is to invent it. — Alan Kay
 <!-- DAILY-QUOTE:END -->

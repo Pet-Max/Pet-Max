@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-07</kbd>
+<kbd>2026-11-08</kbd>
 
-- The best way to predict the future is to invent it. — Alan Kay
+- Talk is cheap. Show me the code. — Linus Torvalds
 <!-- DAILY-QUOTE:END -->

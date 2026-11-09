@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-08</kbd>
+<kbd>2026-11-09</kbd>
 
-- Talk is cheap. Show me the code. — Linus Torvalds
+- 天行健，君子以自强不息。—— 《周易》
 <!-- DAILY-QUOTE:END -->

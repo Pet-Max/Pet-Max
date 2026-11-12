@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-11</kbd>
+<kbd>2026-11-12</kbd>
 
-- 你是一个牛马，你怎么可以休息呢，只有对社会没用的人才会休息。——Pet Max
+- Stay hungry, stay foolish. — Steve Jobs
 <!-- DAILY-QUOTE:END -->

@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-13</kbd>
+<kbd>2026-11-14</kbd>
 
-- Stay hungry, stay foolish. — Steve Jobs
+- 路漫漫其修远兮，吾将上下而求索。—— 屈原《离骚》
 <!-- DAILY-QUOTE:END -->

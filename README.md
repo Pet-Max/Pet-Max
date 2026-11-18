@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-17</kbd>
+<kbd>2026-11-18</kbd>
 
-- 慢慢来，比较快。
+- 山高路远，看世界，也找自己。
 <!-- DAILY-QUOTE:END -->

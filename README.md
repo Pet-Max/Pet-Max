@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-23</kbd>
+<kbd>2026-11-24</kbd>
 
-- 不积跬步，无以至千里；不积小流，无以成江海。—— 荀子《劝学》
+- Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
 <!-- DAILY-QUOTE:END -->

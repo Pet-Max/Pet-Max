@@ -20,7 +20,7 @@
 
 <!-- DAILY-QUOTE:START -->
 
-<kbd>2026-11-26</kbd>
+<kbd>2026-11-27</kbd>
 
-- 长风破浪会有时，直挂云帆济沧海。—— 李白《行路难》
+- The best way to predict the future is to invent it. — Alan Kay
 <!-- DAILY-QUOTE:END -->
